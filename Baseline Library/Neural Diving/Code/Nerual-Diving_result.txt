@@ -1,0 +1,33 @@
+instances/knapsack/test
+['instance_152.lp', 'instance_270.lp', 'instance_46.lp', 'instance_864.lp', 'instance_875.lp']
+[0.0, 0.0, 0.0, 0.0, 0.0]
+instances/mis/test
+['instance_119.lp', 'instance_372.lp', 'instance_557.lp', 'instance_848.lp', 'instance_855.lp']
+[0.0, 0.0, 0.0, 0.0, 0.0]
+instances/setcover/test
+['instance_22.lp', 'instance_446.lp', 'instance_521.lp', 'instance_762.lp', 'instance_997.lp']
+[230.0, 189.0, 233.0, 279.0, 227.0]
+instances/vary_bounds_s1/test
+['bnd_s1_i01.lp', 'bnd_s1_i02.lp', 'bnd_s1_i03.lp', 'bnd_s1_i04.lp', 'bnd_s1_i05.lp']
+[11784.0, 13363.0, 11683.0, 11567.0, 13512.0]
+instances/vary_matrix_rhs_bounds_obj_s1/test
+['mat_rhs_bnd_obj_s1_i01.lp', 'mat_rhs_bnd_obj_s1_i02.lp', 'mat_rhs_bnd_obj_s1_i04.lp', 'mat_rhs_bnd_obj_s1_i15.lp', 'mat_rhs_bnd_obj_s1_i38.lp']
+[-54969.29324489649, -85183.39991921067, -49770.61542160263, -17078.952388693026, -51189.16432009393]
+instances/vary_matrix_s1/test
+['mat_s1_i01.lp', 'mat_s1_i02.lp', 'mat_s1_i03.lp', 'mat_s1_i04.lp', 'mat_s1_i05.lp']
+[63.138918892674525, 61.15791109649798, 60.54024032886235, 62.00998925183241, 61.122323377023456]
+instances/vary_obj_s1/test
+['obj_s1_i01.lp', 'obj_s1_i02.lp', 'obj_s1_i03.lp', 'obj_s1_i04.lp', 'obj_s1_i05.lp']
+[8621.0, 8810.0, 8523.0, 8632.0, 8541.0]
+instances/vary_obj_s3/test
+['obj_s3_i01.lp', 'obj_s3_i02.lp', 'obj_s3_i03.lp', 'obj_s3_i04.lp', 'obj_s3_i05.lp']
+[-2122.7477200000003, -2163.7477200000003, -2778.6429999999996, -1671.6035499999998, -2163.7477200000003]
+instances/vary_rhs_obj_s2/test
+['rhs_obj_s2_i01.lp', 'rhs_obj_s2_i13.lp', 'rhs_obj_s2_i18.lp', 'rhs_obj_s2_i26.lp', 'rhs_obj_s2_i43.lp']
+[-588003.8308444701, -640435.9707274677, -748559.6259073757, -1502315.3263974176, -560496.7262116265]
+instances/vary_rhs_s2/test
+['rhs_s2_i01.lp', 'rhs_s2_i02.lp', 'rhs_s2_i03.lp', 'rhs_s2_i04.lp', 'rhs_s2_i05.lp']
+[-17171.730872277094, -17167.43615116431, -17167.576664778015, -17167.48261806169, -17167.53046269584]
+instances/vary_rhs_s4/test
+['rhs_s4_i01.lp', 'rhs_s4_i02.lp', 'rhs_s4_i03.lp', 'rhs_s4_i04.lp', 'rhs_s4_i05.lp']
+[-17166.67772042677, -17170.02262152295, -17162.48130567184, -17163.6897731524, -17169.42973096657]

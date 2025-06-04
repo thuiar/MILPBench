@@ -1,0 +1,32 @@
+knapsack
+['instance_152.lp', 'instance_270.lp', 'instance_46.lp', 'instance_864.lp', 'instance_875.lp']
+[0.0, 0.0, 0.0, 0.0, 0.0]
+[0, 0, 0, 0, 0]
+mis
+['instance_119.lp', 'instance_372.lp', 'instance_557.lp', 'instance_848.lp', 'instance_855.lp']
+[201.0, 189.0, 198.0, 192.0, 182.0]
+[1, 1, 1, 1, 1]
+setcover
+['instance_22.lp', 'instance_446.lp', 'instance_521.lp', 'instance_762.lp', 'instance_997.lp']
+[219.0, 244.0, 263.0, 291.0, 263.0]
+[1, 1, 1, 1, 1]
+vary_bounds_s1
+['bnd_s1_i01.lp', 'bnd_s1_i02.lp', 'bnd_s1_i03.lp', 'bnd_s1_i04.lp', 'bnd_s1_i05.lp']
+[11683.0, 13512.0, 11567.0, 11784.0, 13363.0]
+[1, 1, 1, 1, 1]
+vary_matrix_rhs_bounds_obj_s1
+['mat_rhs_bnd_obj_s1_i01.lp', 'mat_rhs_bnd_obj_s1_i02.lp', 'mat_rhs_bnd_obj_s1_i04.lp', 'mat_rhs_bnd_obj_s1_i15.lp', 'mat_rhs_bnd_obj_s1_i38.lp']
+[-49770.61678316006, -17078.949518214875, -85183.39854218076, -51187.262349101664, -54969.28676221332]
+[1, 1, 1, 1, 1]
+vary_matrix_s1
+['mat_s1_i01.lp', 'mat_s1_i02.lp', 'mat_s1_i03.lp', 'mat_s1_i04.lp', 'mat_s1_i05.lp']
+['Infeasible!', 'Infeasible!', 'Infeasible!', 'Infeasible!', 'Infeasible!']
+[2, 2, 2, 2, 2]
+vary_obj_s1
+['obj_s1_i01.lp', 'obj_s1_i02.lp', 'obj_s1_i03.lp', 'obj_s1_i04.lp', 'obj_s1_i05.lp']
+[8541.0, 8810.0, 8632.0, 8621.0, 8523.0]
+[1, 1, 1, 1, 1]
+vary_rhs_s2
+['rhs_s2_i01.lp', 'rhs_s2_i02.lp', 'rhs_s2_i03.lp', 'rhs_s2_i04.lp', 'rhs_s2_i05.lp']
+['Infeasible!', 'Infeasible!', 'Infeasible!', 'Infeasible!', 'Infeasible!']
+[2, 2, 2, 2, 2]

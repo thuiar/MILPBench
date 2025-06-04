@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/vary_matrix_s1/test/mat_s1_i02.lp,,,100.01,0.38578431676359615,,,
+,0,,data/instances/vary_matrix_s1/test/mat_s1_i01.lp,,,100.0,0.4330708971055403,,,
+,0,,data/instances/vary_matrix_s1/test/mat_s1_i03.lp,,,100.0,0.43324850701323664,,,
+,0,,data/instances/vary_matrix_s1/test/mat_s1_i04.lp,,,100.0,0.3929815032160441,,,
+,0,,data/instances/vary_matrix_s1/test/mat_s1_i05.lp,,,100.0,0.35567489538124286,,,

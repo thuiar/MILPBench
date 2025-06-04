@@ -1,0 +1,11 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_3.lp,658046,662170,4000.0,26533847.833920747,timelimit,6314.85991622787,4221.8574140929995
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_34.lp,598308,620366,4000.0,14.980798857933507,timelimit,5429.554930622922,4257.506061857999
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_18.lp,630386,657253,4000.01,43.670956494858764,timelimit,4353.291743237991,4312.362659193001
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_49.lp,641257,650301,4000.0,133.34822458183334,timelimit,4345.415911693126,4304.396411515001
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_0.lp,637277,645078,4000.0,33.959989365726436,timelimit,4374.996605176944,4332.295485643997
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_24.lp,651573,673975,4000.0,20.43842510606099,timelimit,4383.369692392182,4342.977248965002
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_27.lp,596129,557001,4000.0,338.8571715384264,timelimit,4337.986456847051,4299.293812222
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_45.lp,605203,619082,4000.0,66299563.4854302,timelimit,4351.54837519303,4309.098896880998
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_35.lp,581272,593337,4000.0,251302486.31532913,timelimit,4346.280413941946,4302.361751358003
+gnn:supervised,0,1_item_placement,data/instances/1_item_placement/test/item_placement_46.lp,552388,584666,4000.01,350.34923580446264,timelimit,4345.472672122065,4302.684408729001

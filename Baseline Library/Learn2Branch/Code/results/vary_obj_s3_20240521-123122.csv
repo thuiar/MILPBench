@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/vary_obj_s3/test/obj_s3_i02.lp,,,100.0,0.3359996993241585,,,
+,0,,data/instances/vary_obj_s3/test/obj_s3_i01.lp,,,91.74,0.0,,,
+,0,,data/instances/vary_obj_s3/test/obj_s3_i05.lp,,,87.79,0.0,,,
+,0,,data/instances/vary_obj_s3/test/obj_s3_i03.lp,,,95.82,0.0,,,
+,0,,data/instances/vary_obj_s3/test/obj_s3_i04.lp,,,92.74,0.0,,,

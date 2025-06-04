@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/vary_bounds_s1/test/bnd_s1_i03.lp,,,400.0,0.11947245846138763,,,
+,0,,data/instances/vary_bounds_s1/test/bnd_s1_i05.lp,,,400.0,0.20613731792544188,,,
+,0,,data/instances/vary_bounds_s1/test/bnd_s1_i02.lp,,,400.0,0.1778585131096143,,,
+,0,,data/instances/vary_bounds_s1/test/bnd_s1_i04.lp,,,400.0,0.145579929758147,,,
+,0,,data/instances/vary_bounds_s1/test/bnd_s1_i01.lp,,,400.0,0.11011014519119121,,,

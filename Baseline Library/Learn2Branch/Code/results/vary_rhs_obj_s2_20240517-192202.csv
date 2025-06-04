@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/vary_rhs_obj_s2/test/rhs_obj_s2_i43.lp,,,100.0,0.0017629678047264095,,,
+,0,,data/instances/vary_rhs_obj_s2/test/rhs_obj_s2_i18.lp,,,100.0,0.0010331992228862256,,,
+,0,,data/instances/vary_rhs_obj_s2/test/rhs_obj_s2_i01.lp,,,100.0,0.0003015952176114022,,,
+,0,,data/instances/vary_rhs_obj_s2/test/rhs_obj_s2_i13.lp,,,100.0,0.0014542862066673173,,,
+,0,,data/instances/vary_rhs_obj_s2/test/rhs_obj_s2_i26.lp,,,100.0,0.0009648592292532426,,,

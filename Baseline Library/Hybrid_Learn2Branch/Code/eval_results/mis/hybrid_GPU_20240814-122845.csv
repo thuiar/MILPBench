@@ -1,0 +1,6 @@
+policy,instance,stime,gap,objval,status
+film-pre:film-pre,data/instances/mis/test/instance_848.lp,9.85,0.0,228.0,optimal
+film-pre:film-pre,data/instances/mis/test/instance_119.lp,5.72,0.0,231.0,optimal
+film-pre:film-pre,data/instances/mis/test/instance_372.lp,7.89,0.0,232.0,optimal
+film-pre:film-pre,data/instances/mis/test/instance_855.lp,14.16,0.0,222.0,optimal
+film-pre:film-pre,data/instances/mis/test/instance_557.lp,2.39,0.0,231.0,optimal

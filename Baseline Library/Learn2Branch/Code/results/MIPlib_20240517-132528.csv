@@ -1,0 +1,5 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/MIPlib/test/30_70_4.5_0.5_100.lp,,,150.0,0.6153846153845589,,,
+,0,,data/instances/MIPlib/test/mkc1.lp,,,150.0,0.007990115321251727,,,
+,0,,data/instances/MIPlib/test/neos14.lp,,,150.0,0.10646034729256879,,,
+,0,,data/instances/MIPlib/test/30_70_4.5_0.5_10.lp,,,150.33,0.6153846153845589,,,

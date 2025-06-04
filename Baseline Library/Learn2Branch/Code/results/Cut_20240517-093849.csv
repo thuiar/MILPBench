@@ -1,0 +1,4 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/Cut/test/n9-3.lp,,,4000.0,0.12505370113838687,,,
+,0,,data/instances/Cut/test/n15-3.lp,,,4000.01,1.4427743873357706,,,
+,0,,data/instances/Cut/test/n3-3.lp,,,4000.0,0.16668438431855037,,,

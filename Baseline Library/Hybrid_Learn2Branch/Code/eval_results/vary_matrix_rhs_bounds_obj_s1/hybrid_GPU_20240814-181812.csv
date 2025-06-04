@@ -1,0 +1,6 @@
+policy,instance,stime,gap,objval,status
+film-pre:film-pre,data/instances/vary_matrix_rhs_bounds_obj_s1/test/mat_rhs_bnd_obj_s1_i38.lp,100.03,0.011881995872677428,-54569.4384404332,timelimit
+film-pre:film-pre,data/instances/vary_matrix_rhs_bounds_obj_s1/test/mat_rhs_bnd_obj_s1_i15.lp,100.0,0.007146332115063118,-51139.10855438413,timelimit
+film-pre:film-pre,data/instances/vary_matrix_rhs_bounds_obj_s1/test/mat_rhs_bnd_obj_s1_i04.lp,100.41,1e+20,75.0,timelimit
+film-pre:film-pre,data/instances/vary_matrix_rhs_bounds_obj_s1/test/mat_rhs_bnd_obj_s1_i02.lp,100.16,0.03077470304514816,-16934.880225150206,timelimit
+film-pre:film-pre,data/instances/vary_matrix_rhs_bounds_obj_s1/test/mat_rhs_bnd_obj_s1_i01.lp,100.26,2.107388267112473,-16066.601000931632,timelimit

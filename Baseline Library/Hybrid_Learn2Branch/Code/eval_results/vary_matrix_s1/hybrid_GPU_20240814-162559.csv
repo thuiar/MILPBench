@@ -1,0 +1,6 @@
+policy,instance,stime,gap,objval,status
+film-pre:film-pre,data/instances/vary_matrix_s1/test/mat_s1_i02.lp,100.02,0.48330370111194126,62.97374732799667,timelimit
+film-pre:film-pre,data/instances/vary_matrix_s1/test/mat_s1_i01.lp,100.16,0.47561179282697896,63.68795280452575,timelimit
+film-pre:film-pre,data/instances/vary_matrix_s1/test/mat_s1_i03.lp,100.04,0.7258339653948319,63.75733665857544,timelimit
+film-pre:film-pre,data/instances/vary_matrix_s1/test/mat_s1_i04.lp,100.13,0.5728659696711386,62.25756408965298,timelimit
+film-pre:film-pre,data/instances/vary_matrix_s1/test/mat_s1_i05.lp,100.44,0.49908732019122987,61.93366573605666,timelimit

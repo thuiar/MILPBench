@@ -1,0 +1,6 @@
+policy,instance,stime,gap,objval,status
+film-pre:film-pre,data/instances/vary_rhs_s4/test/rhs_s4_i01.lp,79.08,0.0,-17163.6897731524,optimal
+film-pre:film-pre,data/instances/vary_rhs_s4/test/rhs_s4_i05.lp,71.47,0.0,-17166.67772042678,optimal
+film-pre:film-pre,data/instances/vary_rhs_s4/test/rhs_s4_i03.lp,56.68,0.0,-17162.48130567184,optimal
+film-pre:film-pre,data/instances/vary_rhs_s4/test/rhs_s4_i02.lp,74.26,0.0,-17169.429730966578,optimal
+film-pre:film-pre,data/instances/vary_rhs_s4/test/rhs_s4_i04.lp,61.42,0.0,-17170.02262152295,optimal

@@ -1,0 +1,6 @@
+policy,instance,stime,gap,objval,status
+film-pre:film-pre,data/instances/knapsack/test/instance_46.lp,100.01,0.023474178403755867,426.0,timelimit
+film-pre:film-pre,data/instances/knapsack/test/instance_152.lp,28.57,0.0,400.0,optimal
+film-pre:film-pre,data/instances/knapsack/test/instance_875.lp,62.45,0.0,425.0,optimal
+film-pre:film-pre,data/instances/knapsack/test/instance_270.lp,9.37,0.0,419.0,optimal
+film-pre:film-pre,data/instances/knapsack/test/instance_864.lp,11.58,0.0,433.0,optimal

@@ -1,0 +1,6 @@
+policy,instance,stime,gap,objval,status
+film-pre:film-pre,data/instances/vary_bounds_s1/test/bnd_s1_i03.lp,400.04,0.07061499502190427,11761.0,timelimit
+film-pre:film-pre,data/instances/vary_bounds_s1/test/bnd_s1_i05.lp,400.13,0.21457707213963767,14537.0,timelimit
+film-pre:film-pre,data/instances/vary_bounds_s1/test/bnd_s1_i02.lp,400.02,0.20273438557958054,14568.0,timelimit
+film-pre:film-pre,data/instances/vary_bounds_s1/test/bnd_s1_i04.lp,400.19,0.12325303941486489,12378.0,timelimit
+film-pre:film-pre,data/instances/vary_bounds_s1/test/bnd_s1_i01.lp,400.12,0.10387106061525571,12028.0,timelimit

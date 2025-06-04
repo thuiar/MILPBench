@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/Transportation/test/n3704.lp,,,4000.06,0.25918350551951286,,,
+,0,,data/instances/Transportation/test/n3701.lp,,,4000.01,0.28287670510807333,,,
+,0,,data/instances/Transportation/test/n3707.lp,,,4000.0,0.27601935749900375,,,
+,0,,data/instances/Transportation/test/n3705.lp,,,4000.0,0.27041537395085047,,,
+,0,,data/instances/Transportation/test/n3709.lp,,,4000.01,0.2737740356523335,,,

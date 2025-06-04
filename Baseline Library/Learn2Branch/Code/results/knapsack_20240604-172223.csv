@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/knapsack/test/instance_46.lp,,,26.26,0.0,,,
+,0,,data/instances/knapsack/test/instance_152.lp,,,1.72,0.0,,,
+,0,,data/instances/knapsack/test/instance_875.lp,,,13.9,0.0,,,
+,0,,data/instances/knapsack/test/instance_270.lp,,,8.2,0.0,,,
+,0,,data/instances/knapsack/test/instance_864.lp,,,1.88,0.0,,,

@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/vary_obj_s1/test/obj_s1_i04.lp,,,100.0,0.005912864924943563,,,
+,0,,data/instances/vary_obj_s1/test/obj_s1_i03.lp,,,100.0,0.00407591073948369,,,
+,0,,data/instances/vary_obj_s1/test/obj_s1_i02.lp,,,100.0,0.005273990707380873,,,
+,0,,data/instances/vary_obj_s1/test/obj_s1_i01.lp,,,100.0,0.005060739934302046,,,
+,0,,data/instances/vary_obj_s1/test/obj_s1_i05.lp,,,100.0,0.006680829649315673,,,

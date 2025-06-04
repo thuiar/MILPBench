@@ -1,0 +1,43 @@
+bipartite: 1
+has_edge_feat: 1
+subgraph_limit: 50
+node_mask_rate: 0.3
+edge_mask_rate: 0.3
+
+w_feat: 5
+w_deg: 1
+w_logit: 5
+w_typ: 1
+w_weight: 5
+w_moe: 1
+expert_num: 8
+act_expert_num: 2
+
+batch_size: 8192
+max_epoch: 50
+lr: 0.01
+weight_decay: 2e-4
+optimizer: adam
+grad_norm: 1.0
+
+enc_in_channels: 14
+enc_hid_channels: 128
+enc_out_channels: 128
+enc_layer_num: 2
+enc_dropout: 0.1
+enc_norm: batchnorm
+enc_gnn: gat
+enc_act: prelu
+dec_in_channels: 128
+dec_hid_channels: 128
+dec_out_channels: 14
+dec_layer_num: 2
+dec_dropout: 0.1
+dec_norm: batchnorm
+dec_gnn: gat
+dec_act: prelu
+mlp_hid_channels: 16
+mlp_layer_num: 2
+mlp_dropout: 0.1
+mlp_act: relu
+feat_loss: sce

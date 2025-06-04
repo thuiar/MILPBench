@@ -1,0 +1,11 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/1_item_placement/test/item_placement_3.lp,,,4000.0,22117583.044480126,,,
+,0,,data/instances/1_item_placement/test/item_placement_34.lp,,,4000.0,27.114719728066635,,,
+,0,,data/instances/1_item_placement/test/item_placement_18.lp,,,4000.0,57.405761654393004,,,
+,0,,data/instances/1_item_placement/test/item_placement_49.lp,,,4000.0,133.34566400532486,,,
+,0,,data/instances/1_item_placement/test/item_placement_0.lp,,,4000.0,56.2305384225027,,,
+,0,,data/instances/1_item_placement/test/item_placement_24.lp,,,4000.0,20.61827151502042,,,
+,0,,data/instances/1_item_placement/test/item_placement_27.lp,,,4000.0,366.790322848285,,,
+,0,,data/instances/1_item_placement/test/item_placement_45.lp,,,4000.0,86978843.48207326,,,
+,0,,data/instances/1_item_placement/test/item_placement_35.lp,,,4000.0,307680770.13682055,,,
+,0,,data/instances/1_item_placement/test/item_placement_46.lp,,,4000.01,350.51326702182337,,,

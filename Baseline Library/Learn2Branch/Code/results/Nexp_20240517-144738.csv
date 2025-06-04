@@ -1,0 +1,6 @@
+policy,seed,type,instance,nnodes,nlps,stime,gap,status,walltime,proctime
+,0,,data/instances/Nexp/test/germanrr.lp,,,4000.01,0.02833782882242825,,,
+,0,,data/instances/Nexp/test/seymour.disj-10.lp,,,4000.0,0.021582043046622472,,,
+,0,,data/instances/Nexp/test/sp98ar.lp,,,4000.0,0.02296326082943597,,,
+,0,,data/instances/Nexp/test/ramos3.lp,,,4000.59,0.6529492455418354,,,
+,0,,data/instances/Nexp/test/p6b.lp,,,4000.0,0.08876510208472865,,,
